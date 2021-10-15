@@ -21,6 +21,9 @@ body{
   background-color: #252129;
 }
 
+.wrapper {
+	overflow-x: hidden;
+}
 
 a:hover{
 	transition: all 0.3s ease 0s;
